@@ -1,38 +1,37 @@
 # Introduction
 
- ## Resturants Rating data analysis project :
- ####  The Data Set Shows Resturants Rating In Mexico .
- #### The main reason For the analysis is To detect The high Rating Resturants and The reason They got high ratings . 
- #### This could possiply help The people Who Want To open New resturants 
+ ## Restaurants Rating data analysis project :
+ ####  The Data Set Shows Resturants Ratings In Mexico.
+ #### The main reason For the analysis is To detect the Rating Restaurants and The reason They got high ratings. 
 #
  # Questsions  :
  
-   - Q1 What are The Most Preferd Resturants and Cuisines
+   - Q1 What are The Most preferred restaurants and Cuisines
 
-   - Q2 When  Do You Considre a resturant a high rated resturant and what are the 
-   resturants that got the perfect score 
+   - Q2 When  Do You Consider a restaurant a high rated restaurants and what are the 
+   restaurants that got the perfect score 
    
-   - Q3 In The high rated Resturants What are the Elements that Affected The Rating
-   - Q4 What are the Consumers demographics.
-   - Q5 Can You Spot Some Supply and Demand grasps in the data ? .
+   - Q3 In the rated restaurants What are the Elements that Affected The Rating
+   - Q4 What are the Consumer's demographics?
+   - Q5 Can You Spot Some Supply and Demand grasps in the data?
 
 ###   Cheack the Queries Here : [Queries folder](/Queries/)
     
  #
 # Tools I Used : 
 
- - SQl  .
+ - SQL.
 
- - Microsoft Sql Sever managment Studio : The Chosen Data base managment System to Host databases and run Queries .
+ - Microsoft SQL Server Management Studio: The Chosen Database Management System to Host databases and run Queries.
  
- - Vs code :The famous code editor , linked to sql server managment studio Via sql tools Extension .
+ - Vs code: The famous code editor, linked to SQL server management studio Via SQL tools Extension.
  
- - Python : i used matplotlib and seaborn Libiraries to visulize The Findings  
+ - Python: I used Matplotlib and Seaborn Libraries to visualize The Findings  
 
 #
  # The Analysis :
 
- ## Each Query Meets and answers a question .
+ ## Each Query Meets and answers a question.
 
   ### First Query :
   - The firt query answers the quetsion what are the most preferd cuisines according to consumers votes .
@@ -118,7 +117,7 @@ HAVING
 
 ## 
 
-## Query no 4 Answers the quetsion what are the consumers demographics 
+## Query no 4 Answers the question what are the consumer's demographics 
 
 ``` sql
 SELECT 
@@ -136,13 +135,13 @@ ORDER BY
 
 ##
 
-## Query no 5 answers the quetsion can you spot any supply and demand grasps ?
+## Query no 5 answers the question can you spot any supply and demand grasps?
 
 ```
 /*
      Markrt supply and Demand grasps 
     To spot it we most do some data exploration first  
-    On the first look we will put The Consumers data Against the resturants data
+    On the first look we will put The Consumers data Against the restaurants' data
     Drink vs alcahole service
     Transpostino method vs parking ..etc
 */
