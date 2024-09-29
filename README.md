@@ -104,8 +104,8 @@ HAVING
 ```
 
 ## Second Visual 
-#
-![Smoking Allowness](images/Smoking.jpeg)
+
+![Smoking Allowness](Images/Smoking.jpeg)
 
 ## Third Visual 
 ![Resturant Area](images/Area.jpg.jpeg)
