@@ -108,7 +108,7 @@ HAVING
 ![Smoking Allowness](Images/Smoking.jpeg)
 
 ## Third Visual 
-![Resturant Area](images/Area.jpg.jpeg)
+![Resturant Area](Images/Area.jpg.jpeg)
 #
 ## Fourth Visual 
 #
