@@ -112,7 +112,7 @@ HAVING
 #
 ## Fourth Visual 
 #
-![Prices](images/price.jpeg)
+![Prices](Images/price.jpeg)
 #
 
 ## 
