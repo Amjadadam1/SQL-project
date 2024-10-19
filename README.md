@@ -2,7 +2,7 @@
 
  ## Restaurants Rating data analysis project :
  ####  The Data Set Shows Resturants Ratings In Mexico.
- #### The main reason For the analysis is To detect the Rating Restaurants and The reason They got high ratings. 
+ #### The main reason For the analysis is To detect the high Rating Restaurants and The reason They got high ratings. 
 #
  # Questsions  :
  
