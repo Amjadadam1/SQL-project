@@ -13,7 +13,7 @@
    
    - Q3 In the rated restaurants What are the Elements that Affected The Rating
    - Q4 What are the Consumer's demographics?
-   - Q5 Can You Spot Some Supply and Demand grasps in the data?
+   - Q5 Can You Spot Some Supply and Demand gaps in the data?
 
 ###   Cheack the Queries Here : [Queries folder](/Queries/)
     
